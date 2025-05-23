@@ -236,7 +236,8 @@ h5 {
   display: flex;
   flex: 1 1 356px;
   justify-content: flex-end;
-  margin-top: auto;
+  margin: auto;
+  border: 6px solid var(--gray-text-color)
 }
 
 .hero-img img {
@@ -388,6 +389,7 @@ h5 {
   overflow: hidden;
   display: block;
   max-width: 510px;
+  height: 330px;
 }
 
 .project-box a {
